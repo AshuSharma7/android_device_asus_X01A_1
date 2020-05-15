@@ -182,7 +182,7 @@ include device/qcom/sepolicy-legacy-um/sepolicy.mk
 # Security patch level
 VENDOR_SECURITY_PATCH := 2020-02-05
 
- Treble
+#Treble
 BOARD_VNDK_RUNTIME_DISABLE := true
 BOARD_VNDK_VERSION := current
 BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED := true
