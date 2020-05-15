@@ -286,6 +286,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libjson
 
+# Properties
+-include device/asus/X01A_1/vendor_prop.mk
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.class_main.sh \
