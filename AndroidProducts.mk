@@ -1,2 +1,13 @@
+#
+# Copyright (C) 2020 The PixelExperience Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_X01A_1.mk
+    $(LOCAL_DIR)/potato.mk
+
+COMMON_LUNCH_CHOICES := \
+    potato_X01AD-user \
+    potato_X01AD-userdebug \
+    potato_X01AD-eng

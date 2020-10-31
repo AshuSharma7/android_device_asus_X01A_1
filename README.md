@@ -1,24 +1,20 @@
-# Device Tree for Asus Zenfone Max M2 (X01AD)
+Device Tree for Asus Zenfone Max M2 (X01AD)
+===========================================
 
-## Spec Sheet
+The Asus Zenfone Max M2 (codenamed _"X01AD"_) is a mid-range smartphone from Asus.
+It was announced on December, 2018.
 
-| Feature                 | Specification                     |
-| :---------------------- | :-------------------------------- |
-| CPU                     | Octa-core 1.8 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8953 Snapdragon 632   |
-| GPU                     | Adreno 506                        |
-| Memory                  | 3/4 GB                            |
-| Shipped Android Version | 8.1.0                             |
-| Storage                 | 32/64 GB                          |
-| MicroSD                 | Up to 256 GB                      |
-| Battery                 | 4000 mAh (non-removable)          |
-| Dimensions              | 158.4 x 76.3 x 7.7 mm             |
-| Display                 | 720 x 1520 pixels (~269 ppi)     |
-| Rear Camera             | 13 MP, f/1.8, 1.12 μm, PDAF       |
-|                         | 2 MP, f/2.2, 1.12 μm, depth sensor|
-| Front Camera            | 8 MP, f/2.0                       |
-| Announced Date          | December 2018                         |
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)
+Chipset | Qualcomm SDM632 Snapdragon 632 (14 nm)
+GPU     | Adreno 506
+Shipped Android Version | 8.1.0
+Memory | 64 GB, 4 GB RAM or 32 GB, 3 GB RAM
+MicroSD | microSD, up to 512 GB (dedicated slot)
+Battery | Non-removable Li-Ion 4000 mAh battery
+Display | 6.26 inches, 97.8 cm2 (~80.9% screen-to-body ratio)
+Rear Camera  | 13 MP, f/1.8, 1.12µm, PDAF
+Front Camera  |  8 MP, f/2.0, 1.12µm
 
-## Device Picture
-
-![Asus Zenfone Max M2](https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg "Asus Zenfone Max M2")
+![Asus Zenfone Max M2](https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-m2-zb633kl-r.jpg "Asus Zenfone Max M2")
