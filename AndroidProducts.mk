@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato.mk
+    $(LOCAL_DIR)/potato_X01AD.mk
 
 COMMON_LUNCH_CHOICES := \
     potato_X01AD-user \

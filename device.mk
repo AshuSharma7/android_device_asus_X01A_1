@@ -6,8 +6,7 @@
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-aosp
+    $(LOCAL_PATH)/overlay
 
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := X01A,X01AD
