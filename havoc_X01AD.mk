@@ -13,8 +13,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Set shipping API level
 $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk)
 
-# Inherit some common HavocOS stuff
-$(call inherit-product, vendor/havoc/config/common.mk)
+
+# Inherit some Havoc stuff.
+$(call inherit-product, vendor/havoc/config/common_full_phone.mk)
+TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 720
 
 # Inherit device stuff
